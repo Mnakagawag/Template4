@@ -1,0 +1,87 @@
+body{
+	font-family: 'Roboto', sans-serif;
+    color: grey;
+}
+ul.menu {
+  clear: both;
+  float: left;
+  width: 100%;
+  list-style: none;
+  margin: 10px;
+  padding: 10px;
+  right: 10px;
+}
+ul.menu li{
+   float: left;
+}
+h1{
+	text-align: center;
+	color:purple;
+	padding: 20px;
+}
+.parrafos{
+	position: relative;
+    display: inline-block;
+}
+.parrafo1{
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	padding: 20px;
+}
+.parrafo2{
+	position: relative;
+	display: inline-block;
+	text-align: center;
+	padding: 20px;
+}
+.img1{
+	position: relative;
+	display: inline-block;
+	padding: 10px;
+}
+.parrafo3{
+   	position: absolute;
+    right: 0px;
+    width: 550px;
+    padding: 20px;
+    text-align: center;
+}
+.parrafo4{
+	padding: 10px;
+	margin-left: 10px;
+	text-align: center;
+}
+h3.info{
+	text-align: center;
+}
+h3.contacto{
+	text-align: center;
+}
+h3.links{
+	text-align: center;
+}
+.contacto2{
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	right: -150px;
+
+}
+.links2{
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	right: -400px;
+}
+.facebook{
+	display: inline-block;
+	position: relative;
+	right: -400px;
+	top:10px;
+	bottom: 0px;
+}
+
+
+
+
